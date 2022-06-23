@@ -1,5 +1,5 @@
-import react from "react";
-import { View, Text } from "react-native-web";
+import React from 'react';
+import { View, Button, Text } from 'react-native';
 
 const Details = ({navigation}) => {
     return(

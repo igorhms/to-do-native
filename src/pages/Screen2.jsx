@@ -1,4 +1,4 @@
-import react from "react";
+import React from 'react';
 import { View, Button, Text } from "react-native";
 
 const Home = ({ navigation }) => {
